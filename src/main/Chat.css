@@ -1,0 +1,32 @@
+.chatContent{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    width: 60%;
+}
+
+.chatBox{
+    display: flex;
+    flex-direction: column;
+    border: lightgray solid 1px;
+    height: 300px;
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+    justify-content: flex-end;
+    max-height: 300px;
+    overflow-y: auto;
+
+}
+
+.input {
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 20px solid blue; */
+}
+
+.inputContent {
+    display: flex;
+    margin-top: 10px;
+}
+

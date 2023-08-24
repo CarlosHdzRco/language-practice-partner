@@ -1,0 +1,12 @@
+.leftMessage {
+    max-width: fit-content;
+    left: 0;
+    align-self: flex-start;
+    border: 2px solid red;
+}
+
+.rightMessage {
+    max-width: fit-content;
+    align-self: flex-end;
+    border: 2px solid blue;
+}
